@@ -1,0 +1,10 @@
+name: HolyAway
+main: net.HolyEnderman.HolyAway.HolyAway
+version: 1.0
+commands:
+   away:
+      description: The away command.
+      usage: /<command> [reason]
+   afk:
+      description: The away command.
+      usage: /<command> [reason]
